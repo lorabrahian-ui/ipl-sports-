@@ -1,2 +1,2 @@
 # ipl-sports-
-haplicacion deportiva para mira juego de deportes 
+haplicacion deportiva de juego de deportes 
